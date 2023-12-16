@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <img src="cover.jpg">
     <h1>Hi, I'm Khushbul Alam.</h1>
 </body>
 </html>
