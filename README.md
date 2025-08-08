@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Banner](kacover.png)
+# 👋 Hi, I'm [Your Full Name]
+### 💻 Frontend Developer | MERN Stack Developer
+
 
 
