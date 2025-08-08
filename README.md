@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Md. Khushbul Alam
 ### 💻 Frontend Developer | MERN Stack Developer
 
+I’m a passionate web developer with a love for building intuitive user interfaces.  
+Currently pursuing my degree in Computer Science.  
+I enjoy working with JavaScript and exploring modern web technologies.
+
+
 
 
