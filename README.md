@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Banner](kacover.png)
-# 👋 Hi, I'm [Your Full Name]
+# 👋 Hi, I'm Md. Khushbul Alam
 ### 💻 Frontend Developer | MERN Stack Developer
 
 
